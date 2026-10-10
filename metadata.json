@@ -1,0 +1,6 @@
+{
+  "name": "المستقر المالي",
+  "description": "منصة الاستقرار المالي لإدارة الخزنة والادخار والمشتريات بالدين والمجاميع النهائية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
